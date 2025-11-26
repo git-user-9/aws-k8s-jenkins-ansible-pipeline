@@ -6,6 +6,10 @@
 ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## Documentation & Demo
+[![Demo Video](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1O1qMwqNF7bEx_HFP203xzYETr3QvB-mA/view?usp=drive_link)
+[![Documentation](https://img.shields.io/badge/View-Documentation_PDF-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1RkjEaUwDW2s_avlP-o9zmb7GhtcJAPUJ/view?usp=drive_link)
+
 ## 📖 Overview
 
 This project demonstrates a complete **DevOps lifecycle (CDD - Continuous Delivery/Deployment)** for deploying the *Loxury Jewellery* web application.
